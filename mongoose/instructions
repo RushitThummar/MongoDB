@@ -1,0 +1,12 @@
+// fist initialize in gitbash
+// $mongod
+// $mongosh
+// $show dbs
+// $ use "select DB"
+// $show collections
+// $db.Models.find()
+
+
+// In terminal
+// >npm init -y
+// >npm i moongoose
