@@ -1,16 +1,16 @@
------------------inside terminal-------------------
-npm init -y
-npm i express
-npm i ejs
-npm i mongoose
-npm i method-override
+//-----------------inside terminal-------------------
+//npm init -y
+//npm i express
+//npm i ejs
+//npm i mongoose
+//npm i method-override
 
--------------inside git bash-------------------------
-$mongod
-$mongosh
-->show dbs
-->use whatsapp
-->show collections
-->db.chats.find()
-#accept to delete
-->db.chats.deleteMany({})
+//-------------inside git bash-------------------------
+//$mongod
+//$mongosh
+//->show dbs
+//->use whatsapp
+//->show collections
+//->db.chats.find()
+//#accept to delete
+//->db.chats.deleteMany({})
